@@ -1,0 +1,81 @@
+11 pts
+
+Anirudh,
+
+You showed a nice proof that you have all the necessary setup for python.
+
+You showed a nice proof that you have a GitHub account and that you added me as a
+collaborator.
+
+You provided a nice proof that you created a Kaggle account.
+
+About the problems:
+1. 
+You have the correct answer and a good explanation.
+
+2. 
+You have a correct answer and a good explanation.
+Why did you use something other than x_1 and x_2?
+
+3.(a)
+You have a very good explanation.
+You did not provide Python code to support your answer. 
+
+3.(b)
+You have the correct answer and a very good explanation.
+You have an incorrect part, however, the rank is 2. -1pt
+You did not provide Python code to support your answer.
+
+3.(c) 
+You provided a correct answer and a good explanation.
+You did not provide Python code to support your answer.
+
+4. Gaussian
+The answer you provided is not clear. -1pt
+
+4. Multivariate Gaussian
+The answer you provided is not clear. -1pt
+
+4. Bernoulli
+The formula you provided is correct.
+
+4. Binomial
+You provided the correct binomial distribution equation.
+
+4. Exponential
+The formula you provided is correct.
+
+5.
+The explanation provided is not 100\% accurate.
+
+6.
+The answer you provided is not correct. -1pt
+
+7.(a)
+You provided the correct answer.
+
+7.(b)
+The picture you provided is not the best, but it is legible nonetheless.
+
+8.(a)
+You provided a correct answer and development of it.
+
+8.(b)
+The answer you provided is not correct. -1pt
+
+8.(c)
+You showed a good development of your correct answer.
+
+8.(d)
+The answer you provided is not correct. -1pt
+
+
+Overall a barely acceptable work:
+- No python to support your answers -2pts
+- No $\LaTeX$
+- Poor presentation of the work, not typed, and just pictures. Terrible. -3pt
+- No cover page.
+
+Peace,
+
+- Dr. Pablo Rivas
