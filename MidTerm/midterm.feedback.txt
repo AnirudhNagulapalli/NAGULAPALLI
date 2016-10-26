@@ -1,0 +1,22 @@
+92pts
+
+Anirudh,
+
+I could not find the .pdf document corresponding to your midterm exam.
+
+Here is your feedback and grade breakdown by problems:
+
+1) The experiments seem ok, except that you may not have given the perceptron
+enough time to make progress after the linear regression starting point. What
+if 1000 wasn't enough? -1pt
+You did not explain the results. -5pts
+You did not report E_out. -5pts
+
+2) Why is your code not commented? -2pts
+
+3) Good picture/drawing.
+
+
+Peace,
+
+- Dr. Rivas
